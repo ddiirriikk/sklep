@@ -136,6 +136,7 @@ public class Menu {
 				sklep.wyswietlRabat();
 			}
 				break;
+				
 			case "q":
 			case "Q":
 				System.out.println("ByeBye");
